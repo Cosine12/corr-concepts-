@@ -11,7 +11,7 @@ learning for all, It offers:
 • It provides educational games to help learners better understand their 
 work.
 • It provides a user friendly interface.
-❮img src="images/you-picture.png" ❯
+❮img src="screenshots/Screenshot_20210901-214507.jpg" ❯
 
 Download Apk https://drive.google.com/file/d/1q4BGrve6hroySea3TY-UpNuTYlw5ZWpQ/view?usp=sharing
    
