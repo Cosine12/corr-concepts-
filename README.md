@@ -1,5 +1,5 @@
 # corr-concepts-
-Educational App that aims to provide quality education among 
+Educational App that aims to provide quality education among students.
 
 Core concepts aims to provide students with access to quality online 
 learning for all, It offers:
