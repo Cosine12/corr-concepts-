@@ -12,8 +12,8 @@ learning for all, It offers:
 work.
 • It provides a user friendly interface.
 
-
-
+Download Apk 
+   
 Core concepts aims to help learners who are struggling academically and aren’t able 
 to get individual attention from teachers. It helps learners prepare for their upcoming 
 exams and helps learners who struggle with reading understand their work better.
