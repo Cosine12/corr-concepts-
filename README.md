@@ -12,7 +12,7 @@ learning for all, It offers:
 work.
 • It provides a user friendly interface.
 
-Download Apk 
+Download Apk www.hello.com
    
 Core concepts aims to help learners who are struggling academically and aren’t able 
 to get individual attention from teachers. It helps learners prepare for their upcoming 
