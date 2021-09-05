@@ -11,6 +11,8 @@ learning for all, It offers:
 • It provides educational games to help learners better understand their 
 work.
 • It provides a user friendly interface.
+❮img src="images/you-picture.png" ❯
+
 Download Apk https://drive.google.com/file/d/1q4BGrve6hroySea3TY-UpNuTYlw5ZWpQ/view?usp=sharing
    
 Core concepts aims to help learners who are struggling academically and aren’t able 
