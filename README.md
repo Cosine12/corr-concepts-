@@ -1,4 +1,4 @@
-# core-concepts-
+# Core-concepts-
 Educational App that aims to provide quality education among students.
 
 Core concepts aims to provide students with access to quality online 
